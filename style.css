@@ -3,10 +3,11 @@
 
 body {
         font-family: 'Outfit', sans-serif;
-        background-color: - hsl(212, 45%, 89%);
+        background-color: hsl(212, 45%, 89%);
         min-height: 100vh;
         display: flex;
         align-items: center;
+        font-size: 15px;
 }
 
 * {
@@ -19,7 +20,31 @@ body {
     margin: 0 auto;
 }
 
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    padding: 5%;
+    border-radius: 18px ;
+    text-align: center;
+}
+
 .card img{
     width: 100%;
-    background-color: ;
+    border-radius: 12px;
+    
+    
+}
+
+.text{
+    padding: 22px 10px ;
+}
+
+.text h2 {
+    padding-bottom: 10px;
+    color: hsl(216, 15%, 48%);
+    
+}
+
+.text p {
+    color: hsl(218, 44%, 22%)
 }
