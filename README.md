@@ -25,8 +25,8 @@ Frontend Mentor challenges help developers improve their coding skills by buildi
 
 ### Links
 
-- Solution URL: [https://github.com/your-username/qr-code-component](https://github.com/your-username/qr-code-component)
-- Live Site URL: [https://your-username.github.io/qr-code-component](https://your-username.github.io/qr-code-component)
+- Solution URL: https://github.com/yonsok/QR_Code_Component/
+- Live Site URL: https://yonsok.github.io/yonsok/QR_Code_Component/
 
 ---
 
